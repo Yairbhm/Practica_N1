@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Documento
+comment1.params=titulo\ contenido\ autor
+comment1.target=Documento(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=contenido
+comment10.target=void\ modificar(java.lang.String)
+comment11.params=
+comment11.target=void\ eliminar()
+comment2.params=
+comment2.target=java.lang.String\ getTitulo()
+comment3.params=titulo
+comment3.target=void\ setTitulo(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getContenido()
+comment5.params=contenido
+comment5.target=void\ setContenido(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getAutor()
+comment7.params=autor
+comment7.target=void\ setAutor(java.lang.String)
+comment8.params=
+comment8.target=void\ imprimir()
+comment9.params=
+comment9.target=void\ mostrar()
+numComments=12

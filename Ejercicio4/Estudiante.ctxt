@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment1.params=codigo\ nombre\ apellido\ correo
+comment1.target=Estudiante(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=Laboratorio\ getLaboratorioAsignado()
+comment11.params=laboratorioAsignado
+comment11.target=void\ setLaboratorioAsignado(Laboratorio)
+comment2.params=
+comment2.target=int\ getCodigo()
+comment3.params=codigo
+comment3.target=void\ setCodigo(int)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=nombre
+comment5.target=void\ setNombre(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getApellido()
+comment7.params=apellido
+comment7.target=void\ setApellido(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getCorreo()
+comment9.params=correo
+comment9.target=void\ setCorreo(java.lang.String)
+numComments=12

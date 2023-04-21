@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Usuario
+comment1.params=nombre
+comment1.target=Usuario(java.lang.String)
+comment2.params=titulo\ contenido
+comment2.target=Documento\ crearDocumento(java.lang.String,\ java.lang.String)
+comment3.params=documento
+comment3.target=void\ imprimirDocumento(Documento)
+comment4.params=documento
+comment4.target=void\ mostrarDocumento(Documento)
+comment5.params=documento\ contenido
+comment5.target=void\ modificarDocumento(Documento,\ java.lang.String)
+comment6.params=documento
+comment6.target=void\ eliminarDocumento(Documento)
+numComments=7

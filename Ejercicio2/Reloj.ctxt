@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Reloj
+comment1.params=horaInicial\ minutosIniciales
+comment1.target=Reloj(int,\ int)
+comment2.params=
+comment2.target=int\ getHora()
+comment3.params=hora
+comment3.target=void\ setHora(int)
+comment4.params=
+comment4.target=int\ getMinutos()
+comment5.params=minutos
+comment5.target=void\ setMinutos(int)
+comment6.params=
+comment6.target=void\ incrementarMinutos()
+comment7.params=
+comment7.target=void\ mostrarHora()
+numComments=8
